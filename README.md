@@ -75,19 +75,19 @@ User Experience
 
 Sample Output
 text
-
---- Summary ---
-Doctors: [Dr. Smith, Dr. Johnson]
-Salaries: [5000.0, 7500.0]
-Total salary: $12,500.00
-Average salary: $6,250.00
-Bonus (10%): $1,250.00
-
---- Salary Extremes ---
-Highest salary: Dr. Johnson ($7,500.00)
-Lowest salary: Dr. Smith ($5,000.00)
-
-Business Applications
+    
+    --- Summary ---
+    Doctors: [Dr. Smith, Dr. Johnson]
+    Salaries: [5000.0, 7500.0]
+    Total salary: $12,500.00
+    Average salary: $6,250.00
+    Bonus (10%): $1,250.00
+    
+    --- Salary Extremes ---
+    Highest salary: Dr. Johnson ($7,500.00)
+    Lowest salary: Dr. Smith ($5,000.00)
+    
+    Business Applications
 
     HR payroll management
 
